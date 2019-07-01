@@ -1,0 +1,43 @@
+body {
+	font-size: 20px;
+	font-weight: bold;
+}
+button {
+font-size: 20px;
+}
+
+h2{
+font-weight: bold;
+}
+
+a{
+color: white;
+}
+
+button {
+color: white;
+}
+
+.container .navbar-brand {
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 20px;
+}
+.container .navbar-brand:hover {
+	color: white;
+	background-color: #009966;
+}
+
+.col-sm-10 {
+	background-color: white;
+	text-align: center;
+	margin: auto;
+}
+.table-striped tr th {
+	border: 1px solid black;
+}
+
+.table-striped tr td {
+	border: 1px solid black;
+}
+
